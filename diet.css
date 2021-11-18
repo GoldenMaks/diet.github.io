@@ -1,0 +1,94 @@
+html {
+    background-color: rgb(186, 231, 248);
+}
+
+
+#the_main {
+    width: 1600px;
+    height: 1500px;
+    background-color: moccasin;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: snow;
+}
+
+.phase {
+    width: 1200px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+
+#first_phase {
+    background-color: rgb(171, 236, 105);;
+}
+
+#second_phase {
+    background-color: rgb(96, 221, 230);
+}
+
+#third_phase {
+    background-color: pink;
+    height: 180px;
+}
+
+#forth_phase {
+    background-color: rgb(217, 243, 123);
+}
+
+
+
+.png {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18px;
+    border-radius: 7px;
+}
+
+.th_text {
+    width: 1000px;
+    text-align: center;
+}
+
+
+#h11 {
+    text-align: center;
+    font-size: 400%;
+    text-decoration: underline;
+}
+
+#p1 {
+    text-align: center;
+    font-size: 150%;
+    font-style: italic;
+}
+
+.p2 {
+    font-size: 110%;
+}
+
+.p3 {
+    font-size: 130%;
+    padding: 15px;
+}
+
+.th_img {
+    width: 300px;
+}
+
+#work {
+    background-color: springgreen;
+    height: 200px;
+}
+
+#final {
+    background-color: rgb(144, 241, 241);
+    height: 300px
+}
